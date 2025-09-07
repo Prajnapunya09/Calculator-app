@@ -18,13 +18,13 @@ Perform basic arithmetic operations: addition, subtraction, multiplication, divi
 - JavaScript (handles input, evaluation, and validation)
 
 ---
-
 ##  Output Screenshot
 ![Calculator App Screenshot](https://github.com/Prajnapunya09/Calculator-app/blob/main/output(calculator%20app).jpg)
 
-##  Output Video
-🎥 [Click here to watch the output video](https://github.com/Prajnapunya09/Calculator-app/blob/main/output%20vedio(calculator%20app).mp4)
+---
 
+##  Output Video
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/Prajnapunya09/Calculator-app/blob/main/output%20vedio(calculator%20app).mp4)
 
 ---
 
