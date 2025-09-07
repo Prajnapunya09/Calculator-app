@@ -22,6 +22,10 @@ Perform basic arithmetic operations: addition, subtraction, multiplication, divi
 ##  Output Screenshot
 ![Calculator App Screenshot](https://github.com/Prajnapunya09/Calculator-app/blob/main/output(calculator%20app).jpg)
 
+##  Output Video
+🎥 [Click here to watch the output video](https://github.com/Prajnapunya09/Calculator-app/blob/main/output%20vedio(calculator%20app).mp4)
+
+
 ---
 
 ##  Project Structure
