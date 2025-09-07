@@ -24,7 +24,7 @@ Perform basic arithmetic operations: addition, subtraction, multiplication, divi
 ---
 
 ##  Output Video
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/Prajnapunya09/Calculator-app/blob/main/output%20vedio(calculator%20app).mp4)
+![Watch the video](https://github.com/Prajnapunya09/Calculator-app/blob/main/output%20vedio(calculator%20app).mp4)
 
 ---
 
